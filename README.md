@@ -2,6 +2,8 @@
 
 Public-safe case study for a private commercial platform.
 
+**Live site:** [avastream.de](https://avastream.de)
+
 ## Overview
 
 AvaStream is a live-commerce auction platform focused on seller workflows, scanning, showcase synchronization, realtime auction activity, authenticated dashboards, payments, shipping/tracking, and admin operations.
@@ -40,4 +42,3 @@ Designed and developed major frontend and backend workflows for the platform, in
 ## Privacy
 
 The source code is private. This case study excludes credentials, tokens, private seller/buyer data, internal endpoints, streaming configuration, marketplace account data, orders, payment records, and admin screenshots.
-
